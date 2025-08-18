@@ -17,6 +17,7 @@ RUN pip install -r requirements.txt || cat requirements.txt
 # copy the app and model
 COPY app ./app
 COPY model ./model
+COPY metrics.json /app/metrics.json
 
 # If you want to include training data or scripts, copy them too (optional)
 # COPY data ./data
