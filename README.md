@@ -44,7 +44,7 @@ Monitoring: /metrics endpoint (JSON format)
 ✅ Dockerized for easy deployment
 
 ✅ Hosted on Render with CI/CD
-
+![Screenshot](https://github.com/mahisalman/Diabetes_Prediction/blob/main/Untitled.png)
 ## 📂 Project Structure
 ```diabetes-prediction-api/
 │── app/
